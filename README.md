@@ -25,7 +25,7 @@ If you're here to try out the application, head over to the Releases section on 
 Step 1: Clone the Repository
 Clone this repository to your local machine:
 Copy code
-gh repo clone Flamethekid/VRtestproj
+gh repo clone Flamethekid/University-of-Energy-and-Natural-Resources-Virtual-Reality-Grand-Tour-Application
 
 ## Step 2: Download Required Assets
 To keep the repository lightweight, assets are uploaded separately. To get the assets:
